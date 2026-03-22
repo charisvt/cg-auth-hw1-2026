@@ -1,0 +1,9 @@
+*.zip
+__pycache__/
+*.py[cod]
+*.png
+.venv/
+*.aux
+*.log
+*.out
+*.toc
