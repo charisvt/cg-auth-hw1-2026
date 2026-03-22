@@ -1,7 +1,9 @@
 *.zip
 __pycache__/
 *.py[cod]
-*.png
+flat_shading.png
+gouraud_shading.png
+texture_shading.png
 .venv/
 *.aux
 *.log
